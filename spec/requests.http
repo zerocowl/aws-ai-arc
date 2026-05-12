@@ -1,0 +1,14 @@
+POST /prod/chat/sessao-123 HTTP/1.1
+Host: 7flvxu38of.execute-api.us-east-1.amazonaws.com
+Content-Type: application/json
+Content-Length: 64
+
+{
+    "message": "Como posso economizar 20% do meu salário?"
+}
+
+###
+
+
+GET /prod/chat/sessao-123/history?limit=5 HTTP/1.1
+Host: 7flvxu38of.execute-api.us-east-1.amazonaws.com
