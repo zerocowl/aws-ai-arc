@@ -1,9 +1,3 @@
-Zero, como você está desenhando uma arquitetura de nível **Sênior**, o resumo técnico deve refletir a maturidade da solução em termos de governança, segurança e eficiência.
-
-Aqui está o resumo executivo focado na arquitetura multi-conta para a FinTrack:
-
----
-
 ## Resumo Técnico: Plataforma Multi-Conta FinTrack
 
 ### 1. Governança e Estrutura de Identidade
